@@ -61,7 +61,6 @@ export class Compact extends ReactCSS.Component {
             { colors }
             <div is="clear" />
           </div>
-          <CompactFields {...this.props} onChange={ this.handleChange } />
         </div>
       </Raised>
     )
