@@ -27,7 +27,7 @@ export class Compact extends ReactCSS.Component {
           paddingTop: '5px',
           paddingLeft: '5px',
           boxSizing: 'initial',
-          width: '240px',
+          width: (this.props.width || 240) + 'px',
         },
 
         clear: {
