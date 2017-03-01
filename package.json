@@ -1,42 +1,4 @@
 {
-  "_args": [
-    [
-      "react-color@1.3",
-      "/Users/conlenm/projects/chartbuilder"
-    ]
-  ],
-  "_from": "react-color@>=1.3.0 <1.4.0",
-  "_id": "react-color@1.3.8",
-  "_inCache": true,
-  "_installable": true,
-  "_location": "/react-color",
-  "_nodeVersion": "4.2.1",
-  "_npmOperationalInternal": {
-    "host": "packages-5-east.internal.npmjs.com",
-    "tmp": "tmp/react-color-1.3.8.tgz_1456622349713_0.5088933827355504"
-  },
-  "_npmUser": {
-    "email": "case@casesandberg.com",
-    "name": "case"
-  },
-  "_npmVersion": "2.14.7",
-  "_phantomChildren": {},
-  "_requested": {
-    "name": "react-color",
-    "raw": "react-color@1.3",
-    "rawSpec": "1.3",
-    "scope": null,
-    "spec": ">=1.3.0 <1.4.0",
-    "type": "range"
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/react-color/-/react-color-1.3.8.tgz",
-  "_shasum": "93adcda5da5f80d37a91400637f03e73e039910f",
-  "_shrinkwrap": null,
-  "_spec": "react-color@1.3",
-  "_where": "/Users/conlenm/projects/chartbuilder",
   "author": {
     "email": "case@casesandberg.com",
     "name": "case"
@@ -91,11 +53,6 @@
     "webpack-dev-server": "^1.10.1"
   },
   "directories": {},
-  "dist": {
-    "shasum": "93adcda5da5f80d37a91400637f03e73e039910f",
-    "tarball": "http://registry.npmjs.org/react-color/-/react-color-1.3.8.tgz"
-  },
-  "gitHead": "45bdfd59b4538ed6bcc5b4f5042f71cb7b59c6af",
   "homepage": "http://casesandberg.github.io/react-color/",
   "keywords": [
     "react",
