@@ -74,12 +74,13 @@
       "name": "case"
     }
   ],
-  "name": "react-color",
+  "name": "@fivethirtyeight/react-color",
   "optionalDependencies": {},
   "peerDependencies": {
     "react": "^0.14.0",
     "react-dom": "^0.14.0"
   },
+  "private": true,
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
